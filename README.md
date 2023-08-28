@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <div id="pfp" align="center">
+  <div id="pfp" align="inherit">
     <img src="https://pbs.twimg.com/profile_banners/1393005085311922178/1655475566/1080x360" width="560"/>
   </div>
+  <p>All the Links Are here:</p>
   <div id="social-badges">
     <a href="https://www.youtube.com/@joentnt">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -32,3 +33,19 @@
 
 ---
 
+👋 Hello There! I'm Joen, I'm a Programmer and a Project Manager specialising in Game Development.
+
+📷 Oh yeah, I'm also a content creator making tutorial videos. Check it Out, Y'all!!!
+
+📓 I'm currently learning General Management, Marketing, C++, and SFML.
+
+📫 You can contact me via Gmail (tntmasterjoen@gmail.com) or Discord (ID: joentnt, fast response and always accept DMs)
+
+---
+
+<div id="stats" align="center">
+  <div id="general">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoenTNT&show_icons=true&theme=dark" alt="Github Main Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoenTNT&layout=compact&theme=dark" alt="Github Main Stats"/>
+  </div>
+</div>
