@@ -33,13 +33,13 @@
 
 ---
 
-👋 Hello There! I'm Joen, I'm a Programmer and a Project Manager specialising in Game Development.
+👋 Hello There! I'm Joen, I'm a Full-Stack Game Programmer.
 
 📷 Oh yeah, I'm also a content creator making tutorial videos. Check it Out, Y'all!!!
 
-📓 I'm currently learning General Management, Marketing, C++, and SFML.
+📓 I'm currently learning Game Design & Tool & Plugin Development.
 
-📫 You can contact me via Gmail (tntmasterjoen@gmail.com) or Discord (ID: joentnt, fast response and always accept DMs)
+📫 You can contact me via Gmail (tntmasterjoen@gmail.com) or Discord (ID: joenlefox, fast response and always accepts DMs)
 
 ---
 
